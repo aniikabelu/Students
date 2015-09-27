@@ -1,0 +1,42 @@
+body{
+	background-image:url("main.jpg");
+	background-size:cover;
+}
+
+#tape{
+	width:600px;
+	height:50px;
+	margin:auto;
+	background-color:brown;
+	box-shadow:0px 3px 30px 4px;
+}
+
+#tapeFont{
+	padding-top:10px;
+	font-family: Segoe Script;
+	font-size:20px;
+	color:black;
+}
+
+#content{
+	width:600px;
+	margin:auto;
+	background-color:white;
+	box-shadow:0px 3px 30px 4px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#menu{
+	padding-top:10px;
+	width:310px;
+	font-size:15px;
+	font-color:black;	
+	padding-left:10px;
+}
+
+#menu a{
+	text-decoration:none;	
+}
+
+
